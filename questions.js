@@ -20,16 +20,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "der Anschluss",
-    "correct": "connection",
-    "choices": [
-      "weather",
-      "friend",
-      "brother",
-      "connection"
-    ]
-  },
-  {
     "question": "die Antwort, -en",
     "correct": "answer",
     "choices": [
@@ -290,16 +280,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "die Bahn",
-    "correct": "train",
-    "choices": [
-      "recipient",
-      "salesperson",
-      "examination",
-      "train"
-    ]
-  },
-  {
     "question": "der Bahnhof",
     "correct": "train station",
     "choices": [
@@ -411,22 +391,12 @@ const quizDataFromFile = [
   },
   {
     "question": "der Beruf, -e",
-    "correct": "profession",
+    "correct": "profession/occupation",
     "choices": [
       "food",
       "shop",
       "bench",
-      "profession"
-    ]
-  },
-  {
-    "question": "der Beruf, -e",
-    "correct": "occupation",
-    "choices": [
-      "occupation",
-      "map / plan",
-      "sun",
-      "ball-point pen"
+      "profession/occupation"
     ]
   },
   {
@@ -680,16 +650,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "die Dame, -n",
-    "correct": "lady",
-    "choices": [
-      "lady",
-      "single room",
-      "midday",
-      "hand"
-    ]
-  },
-  {
     "question": "der Dank",
     "correct": "thanks",
     "choices": [
@@ -697,16 +657,6 @@ const quizDataFromFile = [
       "potato",
       "bag",
       "attention"
-    ]
-  },
-  {
-    "question": "der Dank",
-    "correct": "thanks",
-    "choices": [
-      "help",
-      "thanks",
-      "fruit",
-      "…"
     ]
   },
   {
@@ -917,16 +867,6 @@ const quizDataFromFile = [
       "part",
       "question",
       "letter"
-    ]
-  },
-  {
-    "question": "das Ende",
-    "correct": "end",
-    "choices": [
-      "lady",
-      "end",
-      "course",
-      "football"
     ]
   },
   {
@@ -1211,22 +1151,12 @@ const quizDataFromFile = [
   },
   {
     "question": "die Frau",
-    "correct": "Ms",
+    "correct": "Ms/woman",
     "choices": [
       "help",
-      "Ms",
+      "Ms/woman",
       "sights/attractions",
       "money"
-    ]
-  },
-  {
-    "question": "die Frau",
-    "correct": "woman",
-    "choices": [
-      "cigarette",
-      "present",
-      "repair",
-      "woman"
     ]
   },
   {
@@ -1460,16 +1390,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "das Glas, -ä, er",
-    "correct": "glasses",
-    "choices": [
-      "newspaper",
-      "view",
-      "glasses",
-      "cake"
-    ]
-  },
-  {
     "question": "das Gleis, -e",
     "correct": "platform",
     "choices": [
@@ -1560,16 +1480,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "der Gruß, -ü, e",
-    "correct": "regards",
-    "choices": [
-      "regards",
-      "papers",
-      "son",
-      "stomach"
-    ]
-  },
-  {
     "question": "das Haar, -e",
     "correct": "hair",
     "choices": [
@@ -1650,26 +1560,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "das Haus, -ä, er",
-    "correct": "home",
-    "choices": [
-      "end",
-      "home",
-      "chicken",
-      "sun"
-    ]
-  },
-  {
-    "question": "das Haus, -ä, er",
-    "correct": "home",
-    "choices": [
-      "home",
-      "bread",
-      "fruit",
-      "south"
-    ]
-  },
-  {
     "question": "die Hausaufgabe,-n",
     "correct": "homework",
     "choices": [
@@ -1740,16 +1630,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "die Hilfe",
-    "correct": "help",
-    "choices": [
-      "help",
-      "north",
-      "family",
-      "group"
-    ]
-  },
-  {
     "question": "das Hobby, -s",
     "correct": "hobby",
     "choices": [
@@ -1801,22 +1681,12 @@ const quizDataFromFile = [
   },
   {
     "question": "die Information, -en",
-    "correct": "information point",
+    "correct": "information point/information",
     "choices": [
       "mouth",
       "meat",
       "school",
-      "information point"
-    ]
-  },
-  {
-    "question": "die Information, -en",
-    "correct": "information",
-    "choices": [
-      "information",
-      "bank holiday",
-      "mouth",
-      "conversation/talk/call"
+      "information point/information"
     ]
   },
   {
@@ -1891,16 +1761,6 @@ const quizDataFromFile = [
   },
   {
     "question": "die Karte, -n",
-    "correct": "card",
-    "choices": [
-      "card",
-      "post office",
-      "repair",
-      "October"
-    ]
-  },
-  {
-    "question": "die Karte, -n",
     "correct": "menu",
     "choices": [
       "corner",
@@ -1967,16 +1827,6 @@ const quizDataFromFile = [
       "kiosk",
       "moment",
       "son"
-    ]
-  },
-  {
-    "question": "die Klasse",
-    "correct": "class",
-    "choices": [
-      "class",
-      "number",
-      "letter",
-      "printer"
     ]
   },
   {
@@ -2310,16 +2160,6 @@ const quizDataFromFile = [
     ]
   },
   {
-    "question": "der Moment",
-    "correct": "moment",
-    "choices": [
-      "adult",
-      "abroad/overseas",
-      "moment",
-      "suitcase"
-    ]
-  },
-  {
     "question": "der Mund",
     "correct": "mouth",
     "choices": [
@@ -2347,16 +2187,6 @@ const quizDataFromFile = [
       "potato",
       "name",
       "woman"
-    ]
-  },
-  {
-    "question": "der Name, -n",
-    "correct": "name",
-    "choices": [
-      "postcode",
-      "map / plan",
-      "wife",
-      "name"
     ]
   },
   {
@@ -2527,16 +2357,6 @@ const quizDataFromFile = [
       "seat",
       "commuter train",
       "room"
-    ]
-  },
-  {
-    "question": "der Platz, -ä, e",
-    "correct": "seat",
-    "choices": [
-      "seat",
-      "room",
-      "train",
-      "foreigner"
     ]
   },
   {
@@ -2851,16 +2671,6 @@ const quizDataFromFile = [
   },
   {
     "question": "der Schluss",
-    "correct": "…",
-    "choices": [
-      "weekday",
-      "parents",
-      "…",
-      "taxi"
-    ]
-  },
-  {
-    "question": "der Schluss",
     "correct": "end",
     "choices": [
       "end",
@@ -2906,16 +2716,6 @@ const quizDataFromFile = [
       "life",
       "grandmother",
       "man / husband",
-      "school"
-    ]
-  },
-  {
-    "question": "die Schule",
-    "correct": "school",
-    "choices": [
-      "newspaper",
-      "board (dining)",
-      "family/marital status",
       "school"
     ]
   },
@@ -3361,16 +3161,6 @@ const quizDataFromFile = [
   },
   {
     "question": "die Vorsicht",
-    "correct": "…",
-    "choices": [
-      "wife",
-      "friend / girlfriend",
-      "square",
-      "…"
-    ]
-  },
-  {
-    "question": "die Vorsicht",
     "correct": "attention",
     "choices": [
       "brother",
@@ -3523,30 +3313,10 @@ const quizDataFromFile = [
     "question": "das Zimmer, –",
     "correct": "room",
     "choices": [
-      "bank",
-      "(male) partner",
-      "room",
-      "hotel"
-    ]
-  },
-  {
-    "question": "das Zimmer, –",
-    "correct": "room",
-    "choices": [
       "…",
       "workplace",
       "room",
       "invitation"
-    ]
-  },
-  {
-    "question": "das Zimmer, –",
-    "correct": "room",
-    "choices": [
-      "entry",
-      "bill",
-      "room",
-      "conversation/talk/call"
     ]
   },
   {
